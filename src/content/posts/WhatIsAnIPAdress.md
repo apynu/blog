@@ -1,5 +1,5 @@
 ---
-title: WhatIsAnIPAdress.md
+title: "What is an IP address"
 published: 2025-01-24
 description: "A Post about what an ip address is"
 image: ""
@@ -8,6 +8,7 @@ category: "tech"
 draft: false
 lang: "en"
 ---
+
 ### **What Are IP Addresses and Why Do They Matter?**
 
 In the vast world of the internet, IP addresses are like the digital equivalent of your home address. They ensure that data—whether it’s a website, a video, or an email—finds its way to the right device. But what exactly are they, and why are they so important? Let’s break it down.
@@ -30,13 +31,14 @@ An IP address typically looks like this:
 There are two main types of IP addresses:
 
 1. **Public IP Addresses**:
-    
-    - Assigned by your Internet Service Provider (ISP).
-    - These are visible on the internet and help identify your device on a global network.
+
+   - Assigned by your Internet Service Provider (ISP).
+   - These are visible on the internet and help identify your device on a global network.
+
 2. **Private IP Addresses**:
-    
-    - Used within local networks (like your home Wi-Fi).
-    - Devices like your laptop, phone, and printer communicate using private IPs, but they share one public IP with the outside world.
+
+   - Used within local networks (like your home Wi-Fi).
+   - Devices like your laptop, phone, and printer communicate using private IPs, but they share one public IP with the outside world.
 
 ---
 
@@ -56,8 +58,8 @@ Your IP address might not stay the same forever. Most home networks use **dynami
 
 - **Public IP**: Search “What’s my IP” on Google.
 - **Private IP**:
-    - On Windows: Open Command Prompt and type `ipconfig`.
-    - On macOS: Go to System Preferences > Network > Advanced.
+  - On Windows: Open Command Prompt and type `ipconfig`.
+  - On macOS: Go to System Preferences > Network > Advanced.
 
 ---
 
@@ -70,3 +72,4 @@ IP addresses play a crucial role in online security. They help detect and block 
 #### **Final Thoughts**
 
 IP addresses may seem like a bunch of random numbers, but they’re essential for the internet to function. Whether you’re streaming a video, browsing social media, or sending an email, an IP address is working behind the scenes to connect your device to the digital world.
+
