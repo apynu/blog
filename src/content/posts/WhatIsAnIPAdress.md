@@ -1,7 +1,7 @@
 ---
 title: "What is an IP address"
 published: 2025-01-24
-description: "A Post about what an ip address is"
+description: "A placeholder Post about what an ip address is"
 image: ""
 tags: [tech, ip]
 category: "tech"
@@ -72,4 +72,3 @@ IP addresses play a crucial role in online security. They help detect and block 
 #### **Final Thoughts**
 
 IP addresses may seem like a bunch of random numbers, but they’re essential for the internet to function. Whether you’re streaming a video, browsing social media, or sending an email, an IP address is working behind the scenes to connect your device to the digital world.
-
