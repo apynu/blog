@@ -11,17 +11,17 @@ export const siteConfig: SiteConfig = {
   subtitle: 'Blog',
   lang: 'en',         // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko', 'es', 'th'
   themeColor: {
-    hue: 250/*170, 45*/,         // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
+    hue: 270/*250 170, 45*/,         // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
     fixed: true,     // Hide the theme color picker for visitors
   },
   banner: {
-    enable: false,
+    enable: true,
     src: 'assets/images/main.jpg',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
     position: 'center',      // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
     credit: {
-      enable: false,         // Display the credit text of the banner image
-      text: '',              // Credit text to be displayed
-      url: ''                // (Optional) URL link to the original artwork or artist's page
+      enable: true,         // Display the credit text of the banner image
+      text: 'serial experiments lain',              // Credit text to be displayed
+      url: 'https://wallpaperaccess.com/serial-experiments-lain'                // (Optional) URL link to the original artwork or artist's page
     }
   },
   toc: {
@@ -69,7 +69,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/avatar.jpg',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'Apynu',
-  bio: 'bored systems dev',
+  bio: 'bored systems dev :3',
   links: [
     {
       name: 'Bluesky',
