@@ -1,2 +1,2 @@
-# About
-just you're average systems dev that enjoys anime and rust.
+# About Apy
+Hi, I'm Apy. I like fast, weird, and complicated code/systems.
